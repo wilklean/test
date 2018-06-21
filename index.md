@@ -5,7 +5,7 @@ I'm Wilklean Regalado, and you're currently on my personal website.
 
 ### Check out:
 
-[https://www.wilklean.wixsite.com/hello]
+[https://www.wilklean.wixsite.com/hello](url)
 ```markdown
 Syntax highlighted code block
 
