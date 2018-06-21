@@ -1,13 +1,11 @@
-## Welcome to GitHub Pages
+## Welcome to Wilklean.online
 
-You can use the [editor on GitHub](https://github.com/wilklean/wilklean.online/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I'm Wilklean Regalado, and you're currently on my personal website.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Check out:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+https://www.wilklean.wixsite.com/hello
 ```markdown
 Syntax highlighted code block
 
