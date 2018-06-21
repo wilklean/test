@@ -7,17 +7,10 @@ I'm Wilklean Regalado, and you're currently on my personal website.
 
 [https://www.wilklean.wixsite.com/hello](url)
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
+1. [Porfolio](https://wilklean.wixsite.com/hello/checkoutmyportfolio)
+2. [About Me](https://wilklean.wixsite.com/hello/somethingaboutme)
+3. [Contact](https://wilklean.wixsite.com/hello/hitmeup)
 
 **Bold** and _Italic_ and `Code` text
 
